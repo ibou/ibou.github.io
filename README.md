@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on differents privates projects
 
-- 🌱 I’m currently learning **Symfony, api platform, Docker***
+- 🌱 I’m currently learning **Symfony, api platform, Docker**
  
 
 - 💬 Ask me about **Symfony**
